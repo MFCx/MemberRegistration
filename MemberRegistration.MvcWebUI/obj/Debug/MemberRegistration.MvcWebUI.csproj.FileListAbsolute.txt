@@ -1,0 +1,123 @@
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.SqlServer.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Helpers.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Mvc.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.SqlServer.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Helpers.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Mvc.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.csprojResolveAssemblyReference.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.csproj.CoreCompileInputs.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Ninject.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\AutoMapper.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\NHibernate.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\log4net.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\PostSharp.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Newtonsoft.Json.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Iesi.Collections.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Ninject.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\AutoMapper.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\NHibernate.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\log4net.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\PostSharp.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Newtonsoft.Json.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\Iesi.Collections.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.Mvc.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.ValidatorAttribute.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ComponentModel.Annotations.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ComponentModel.Primitives.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ValueTuple.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.Mvc.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ValueTuple.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.MvcWebUI.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.SqlServer.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.Mvc.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.ValidatorAttribute.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Ninject.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ComponentModel.Annotations.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ComponentModel.Primitives.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ValueTuple.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Helpers.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Mvc.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Razor.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Deployment.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Razor.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\AutoMapper.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\NHibernate.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\log4net.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\PostSharp.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Newtonsoft.Json.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Iesi.Collections.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\DevFramework.Core.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Business.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.Entities.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\EntityFramework.SqlServer.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\FluentValidation.Mvc.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Ninject.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.ValueTuple.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Razor.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Deployment.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Webpages.Razor.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Helpers.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\System.Web.Mvc.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\AutoMapper.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\NHibernate.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\log4net.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\PostSharp.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Newtonsoft.Json.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\MemberRegistration.DataAccess.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\bin\Iesi.Collections.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.csprojAssemblyReference.cache
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.csproj.CoreCompileInputs.cache
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.csproj.CopyComplete
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.MvcWebUI\obj\Debug\MemberRegistration.MvcWebUI.pdb

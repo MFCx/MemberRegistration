@@ -1,0 +1,103 @@
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Mvc.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Ninject.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\AutoMapper.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\NHibernate.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\FluentValidation.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\log4net.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\PostSharp.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Newtonsoft.Json.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Iesi.Collections.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Mvc.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Ninject.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\AutoMapper.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\NHibernate.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\FluentValidation.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\log4net.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\PostSharp.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Newtonsoft.Json.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Iesi.Collections.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.DataAccess.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\EntityFramework.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Mvc.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Ninject.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\AutoMapper.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\NHibernate.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\FluentValidation.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\log4net.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\PostSharp.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Newtonsoft.Json.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Razor.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Iesi.Collections.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\DevFramework.Core.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\MemberRegistration.Entities.dll.config
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\EntityFramework.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Mvc.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Ninject.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\AutoMapper.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\NHibernate.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\FluentValidation.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\log4net.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\PostSharp.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Newtonsoft.Json.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.Razor.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\Iesi.Collections.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.csprojAssemblyReference.cache
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.csproj.CoreCompileInputs.cache
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.csproj.CopyComplete
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\obj\Debug\MemberRegistration.DataAccess.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\FluentValidation.pdb
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\cs\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\da\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\de\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\es\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\fa\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\fi\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\fr\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\it\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\ko\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\mk\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\nl\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\pl\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\pt\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\ru\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\sv\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\tr\FluentValidation.resources.dll
+F:\Masaüstü Calismalar\MemberRegistration\MemberRegistration\MemberRegistration.DataAccess\bin\Debug\zh-CN\FluentValidation.resources.dll
